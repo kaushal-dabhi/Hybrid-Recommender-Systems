@@ -13,7 +13,7 @@
 - Hybrid Model
 
 # Introduction to Recommendation System
-![image.png](attachment:image.png)
+![image](https://github.com/user-attachments/assets/812bc649-1aef-4bd0-a0bf-485df532b03f)
 
 ### A recommendation system is any system that automatically suggests content, products or serivces which should interest customers based on their preferences.
 ![image.png](attachment:image.png)
